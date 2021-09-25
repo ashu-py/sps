@@ -38,7 +38,7 @@ try:
 				
 		if a==q:
 				print(colored('@ ITS DORE ','blue'))
-		#print('[^0^] score=>',sc)
+		
 except:
 			pass
 			
